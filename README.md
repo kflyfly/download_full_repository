@@ -1,2 +1,2 @@
 # download_full_repository
- download your repository automatically with simple shell script
+ download your github repository automatically with simple shell script
